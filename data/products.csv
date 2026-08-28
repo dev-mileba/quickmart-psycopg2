@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,unit_price
+P00001,UrbanPro Monitor 525,Electronics,UrbanPro,147000
+P00002,SmartEdge Gaming Headset 592,Gaming,SmartEdge,121000
+P00003,Zenith External SSD 737,Electronics,Zenith,595000
+P00004,SmartEdge Gaming Keyboard 447,Gaming,SmartEdge,414000
+P00005,Vertex USB Hub 964,Accessories,Vertex,38000
+P00006,Prime Router 491,Electronics,Prime,85000
+P00007,Zenith Smartphone 626,Electronics,Zenith,299000
+P00008,Nova Gaming Headset 839,Gaming,Nova,133000
+P00009,Nova Filing Cabinet 968,Office,Nova,11000
+P00010,Zenith Phone Case 363,Accessories,Zenith,43000
+P00011,TechCore Gaming Keyboard 748,Gaming,TechCore,28000
+P00012,Nova Printer Paper 537,Office,Nova,5000
+P00013,Pulse External SSD 979,Electronics,Pulse,289000
+P00014,Zenith Microwave 745,Home Appliances,Zenith,50000
+P00015,Nova Air Fryer 516,Home Appliances,Nova,587000
+P00016,NexGen Office Chair 210,Office,NexGen,8000
+P00017,SmartEdge Microwave 391,Home Appliances,SmartEdge,67000
+P00018,Prime Wireless Mouse 535,Accessories,Prime,8000
+P00019,Zenith Bluetooth Speaker 338,Electronics,Zenith,259000
+P00020,Zenith External SSD 685,Electronics,Zenith,205000
+P00021,Zenith Blender 778,Home Appliances,Zenith,128000
+P00022,Vertex Air Conditioner 438,Home Appliances,Vertex,43000
+P00023,Vertex Gaming Keyboard 916,Gaming,Vertex,152000
+P00024,SmartEdge Printer 358,Electronics,SmartEdge,311000
+P00025,Nova Blender 562,Home Appliances,Nova,17000
+P00026,Maxwell Washing Machine 699,Home Appliances,Maxwell,579000
+P00027,Pulse Phone Case 169,Accessories,Pulse,12000
+P00028,Nova Smartphone 768,Electronics,Nova,93000
+P00029,Nova Office Chair 363,Office,Nova,16000
+P00030,NexGen Power Bank 906,Electronics,NexGen,123000
+P00031,Vertex Notebook 259,Office,Vertex,15000
+P00032,Pulse Mechanical Keyboard 738,Accessories,Pulse,10000
+P00033,Orbit Office Chair 787,Office,Orbit,22000
+P00034,Apex Router 419,Electronics,Apex,369000
+P00035,UrbanPro Washing Machine 166,Home Appliances,UrbanPro,433000
+P00036,Prime Smart TV 556,Electronics,Prime,420000
+P00037,Nova USB Cable 467,Accessories,Nova,9000
+P00038,Vertex Stapler 345,Office,Vertex,41000
+P00039,NexGen Mechanical Keyboard 576,Accessories,NexGen,22000
+P00040,Pulse Phone Case 261,Accessories,Pulse,37000
+P00041,Nova Phone Case 559,Accessories,Nova,10000
+P00042,Orbit Wireless Mouse 402,Accessories,Orbit,33000
+P00043,Zenith Standing Fan 902,Home Appliances,Zenith,49000
+P00044,Orbit USB Cable 753,Accessories,Orbit,4000
+P00045,Maxwell Electric Kettle 334,Home Appliances,Maxwell,330000
+P00046,Maxwell Whiteboard 567,Office,Maxwell,24000
+P00047,NexGen Notebook 885,Office,NexGen,79000
+P00048,Orbit Bluetooth Speaker 413,Electronics,Orbit,182000
+P00049,Pulse Desk 275,Office,Pulse,18000
+P00050,Nova Stapler 899,Office,Nova,6000
+P00051,Vertex Air Conditioner 109,Home Appliances,Vertex,50000
+P00052,Maxwell Filing Cabinet 947,Office,Maxwell,8000
+P00053,NexGen Phone Case 722,Accessories,NexGen,4000
+P00054,Maxwell Tablet 772,Electronics,Maxwell,469000
+P00055,TechCore Standing Fan 674,Home Appliances,TechCore,54000
+P00056,Prime Gaming Mouse 474,Gaming,Prime,63000
+P00057,SmartEdge Blender 645,Home Appliances,SmartEdge,366000
+P00058,SmartEdge Standing Fan 717,Home Appliances,SmartEdge,91000
+P00059,Apex Office Chair 936,Office,Apex,71000
+P00060,Apex Printer Paper 530,Office,Apex,78000
+P00061,Pulse Microwave 522,Home Appliances,Pulse,35000
+P00062,SmartEdge HDMI Cable 638,Accessories,SmartEdge,13000
+P00063,UrbanPro Washing Machine 294,Home Appliances,UrbanPro,166000
+P00064,UrbanPro Desk 471,Office,UrbanPro,90000
+P00065,TechCore Office Chair 114,Office,TechCore,84000
+P00066,TechCore Refrigerator 593,Home Appliances,TechCore,289000
+P00067,Maxwell Gaming Monitor 228,Gaming,Maxwell,99000
+P00068,UrbanPro Mechanical Keyboard 147,Accessories,UrbanPro,55000
+P00069,NexGen USB Cable 860,Accessories,NexGen,4000
+P00070,SmartEdge Printer Paper 858,Office,SmartEdge,59000
+P00071,Prime External SSD 405,Electronics,Prime,747000
+P00072,Zenith Desk Lamp 134,Office,Zenith,91000
+P00073,Pulse Wireless Mouse 672,Accessories,Pulse,60000
+P00074,TechCore Office Chair 607,Office,TechCore,127000
+P00075,NexGen Game Console 936,Gaming,NexGen,195000
+P00076,UrbanPro Game Console 409,Gaming,UrbanPro,67000
+P00077,Orbit Refrigerator 967,Home Appliances,Orbit,396000
+P00078,TechCore Power Bank 486,Electronics,TechCore,356000
+P00079,Nova HDMI Cable 645,Accessories,Nova,4000
+P00080,Maxwell Filing Cabinet 198,Office,Maxwell,96000
+P00081,Maxwell Air Fryer 191,Home Appliances,Maxwell,46000
+P00082,Nova Mechanical Keyboard 618,Accessories,Nova,9000
+P00083,Zenith Standing Fan 525,Home Appliances,Zenith,25000
+P00084,Apex Gaming Keyboard 840,Gaming,Apex,26000
+P00085,Orbit Tablet 683,Electronics,Orbit,363000
+P00086,Maxwell Standing Fan 224,Home Appliances,Maxwell,390000
+P00087,UrbanPro Air Conditioner 142,Home Appliances,UrbanPro,618000
+P00088,Nova Printer Paper 101,Office,Nova,25000
+P00089,SmartEdge Wireless Mouse 529,Accessories,SmartEdge,62000
+P00090,Apex External SSD 499,Electronics,Apex,136000
+P00091,Orbit Screen Protector 307,Accessories,Orbit,68000
+P00092,SmartEdge HDMI Cable 109,Accessories,SmartEdge,9000
+P00093,SmartEdge Gaming Headset 894,Gaming,SmartEdge,51000
+P00094,SmartEdge Stapler 188,Office,SmartEdge,28000
+P00095,Nova USB Hub 861,Accessories,Nova,46000
+P00096,Orbit Laptop Bag 154,Accessories,Orbit,74000
+P00097,SmartEdge Laptop 895,Electronics,SmartEdge,204000
+P00098,Apex Monitor 425,Electronics,Apex,94000
+P00099,TechCore Air Conditioner 182,Home Appliances,TechCore,487000
+P00100,UrbanPro Air Fryer 953,Home Appliances,UrbanPro,244000
+P00101,Apex Whiteboard 890,Office,Apex,43000
+P00102,NexGen Smart TV 824,Electronics,NexGen,491000
+P00103,Pulse Router 163,Electronics,Pulse,324000
+P00104,SmartEdge Air Conditioner 849,Home Appliances,SmartEdge,70000
+P00105,Vertex Monitor 370,Electronics,Vertex,115000
+P00106,Pulse Printer Paper 479,Office,Pulse,31000
+P00107,Apex Screen Protector 975,Accessories,Apex,44000
+P00108,SmartEdge Standing Fan 116,Home Appliances,SmartEdge,23000
+P00109,Maxwell Stapler 167,Office,Maxwell,80000
+P00110,Vertex Microwave 414,Home Appliances,Vertex,38000
+P00111,TechCore Monitor 683,Electronics,TechCore,145000
+P00112,Orbit Bluetooth Speaker 645,Electronics,Orbit,137000
+P00113,Maxwell Laptop Bag 119,Accessories,Maxwell,29000
+P00114,Orbit Router 146,Electronics,Orbit,171000
+P00115,Nova Electric Kettle 152,Home Appliances,Nova,284000
+P00116,Vertex Laptop 861,Electronics,Vertex,571000
+P00117,Zenith Printer 947,Electronics,Zenith,246000
+P00118,Zenith Whiteboard 372,Office,Zenith,19000
+P00119,SmartEdge Printer 754,Electronics,SmartEdge,92000
+P00120,Maxwell Smartphone 979,Electronics,Maxwell,197000
+P00121,Prime Screen Protector 560,Accessories,Prime,52000
+P00122,Orbit Game Console 311,Gaming,Orbit,109000
+P00123,Vertex Bluetooth Speaker 317,Electronics,Vertex,102000
+P00124,Zenith USB Hub 227,Accessories,Zenith,18000
+P00125,Zenith Stapler 969,Office,Zenith,119000
+P00126,Nova Gaming Mouse 679,Gaming,Nova,60000
+P00127,Apex USB Cable 570,Accessories,Apex,12000
+P00128,Zenith Router 647,Electronics,Zenith,457000
+P00129,Apex Wireless Mouse 230,Accessories,Apex,27000
+P00130,Maxwell Desk Lamp 877,Office,Maxwell,12000
+P00131,UrbanPro HDMI Cable 598,Accessories,UrbanPro,72000
+P00132,Vertex Game Console 559,Gaming,Vertex,49000
+P00133,TechCore Microwave 696,Home Appliances,TechCore,93000
+P00134,Nova Phone Case 891,Accessories,Nova,9000
+P00135,Pulse Filing Cabinet 919,Office,Pulse,167000
+P00136,Apex Gaming Monitor 223,Gaming,Apex,627000
+P00137,UrbanPro Notebook 787,Office,UrbanPro,12000
+P00138,Nova Power Bank 963,Electronics,Nova,218000
+P00139,UrbanPro HDMI Cable 376,Accessories,UrbanPro,5000
+P00140,Vertex Smart TV 468,Electronics,Vertex,338000
+P00141,Nova Refrigerator 595,Home Appliances,Nova,60000
+P00142,Maxwell Controller 489,Gaming,Maxwell,344000
+P00143,SmartEdge USB Cable 802,Accessories,SmartEdge,3000
+P00144,Orbit Wireless Mouse 554,Accessories,Orbit,32000
+P00145,Pulse Gaming Keyboard 431,Gaming,Pulse,178000
+P00146,Maxwell Smartphone 816,Electronics,Maxwell,91000
+P00147,Maxwell Power Bank 985,Electronics,Maxwell,182000
+P00148,Prime USB Hub 387,Accessories,Prime,74000
+P00149,TechCore Gaming Keyboard 782,Gaming,TechCore,47000
+P00150,Maxwell Gaming Monitor 128,Gaming,Maxwell,302000
+P00151,Apex Gaming Headset 355,Gaming,Apex,144000
+P00152,Zenith Printer Paper 486,Office,Zenith,6000
+P00153,NexGen Smartphone 354,Electronics,NexGen,97000
+P00154,Apex Monitor 322,Electronics,Apex,278000
+P00155,Orbit Gaming Headset 737,Gaming,Orbit,82000
+P00156,Zenith Laptop Bag 513,Accessories,Zenith,42000
+P00157,Prime Router 396,Electronics,Prime,294000
+P00158,Orbit Electric Kettle 173,Home Appliances,Orbit,450000
+P00159,Vertex Gaming Mouse 133,Gaming,Vertex,34000
+P00160,Orbit Whiteboard 665,Office,Orbit,7000
+P00161,UrbanPro Phone Case 640,Accessories,UrbanPro,80000
+P00162,SmartEdge External SSD 835,Electronics,SmartEdge,130000
+P00163,Orbit Stapler 633,Office,Orbit,18000
+P00164,SmartEdge Monitor 559,Electronics,SmartEdge,205000
+P00165,Prime Smart TV 936,Electronics,Prime,91000
+P00166,SmartEdge Notebook 640,Office,SmartEdge,15000
+P00167,Orbit External SSD 513,Electronics,Orbit,71000
+P00168,Prime Laptop 650,Electronics,Prime,453000
+P00169,TechCore Gaming Monitor 684,Gaming,TechCore,71000
+P00170,Prime Electric Kettle 242,Home Appliances,Prime,319000
+P00171,Zenith Whiteboard 515,Office,Zenith,6000
+P00172,Maxwell Desk 142,Office,Maxwell,24000
+P00173,Vertex Desk Lamp 622,Office,Vertex,57000
+P00174,Nova Office Chair 349,Office,Nova,15000
+P00175,Pulse Filing Cabinet 202,Office,Pulse,14000
+P00176,Maxwell Microwave 154,Home Appliances,Maxwell,532000
+P00177,NexGen Router 803,Electronics,NexGen,78000
+P00178,Zenith Whiteboard 829,Office,Zenith,26000
+P00179,Maxwell Blender 908,Home Appliances,Maxwell,106000
+P00180,SmartEdge Refrigerator 626,Home Appliances,SmartEdge,57000
+P00181,Prime USB Cable 503,Accessories,Prime,6000
+P00182,Nova Desk Lamp 548,Office,Nova,8000
+P00183,Nova Notebook 123,Office,Nova,26000
+P00184,SmartEdge Standing Fan 606,Home Appliances,SmartEdge,21000
+P00185,Orbit External SSD 694,Electronics,Orbit,401000
+P00186,Orbit Phone Case 530,Accessories,Orbit,32000
+P00187,Pulse Wireless Mouse 717,Accessories,Pulse,9000
+P00188,TechCore Refrigerator 665,Home Appliances,TechCore,42000
+P00189,Pulse Tablet 583,Electronics,Pulse,87000
+P00190,TechCore Phone Case 384,Accessories,TechCore,32000
+P00191,Pulse Gaming Monitor 165,Gaming,Pulse,498000
+P00192,Prime Power Bank 708,Electronics,Prime,134000
+P00193,SmartEdge Microwave 201,Home Appliances,SmartEdge,359000
+P00194,Orbit Blender 518,Home Appliances,Orbit,22000
+P00195,Nova Game Console 594,Gaming,Nova,77000
+P00196,Apex Gaming Keyboard 359,Gaming,Apex,389000
+P00197,TechCore Printer Paper 703,Office,TechCore,5000
+P00198,NexGen Refrigerator 563,Home Appliances,NexGen,130000
+P00199,Apex Phone Case 864,Accessories,Apex,39000
+P00200,Orbit Filing Cabinet 848,Office,Orbit,8000
+P00201,Maxwell Tablet 883,Electronics,Maxwell,261000
+P00202,Prime Air Fryer 903,Home Appliances,Prime,133000
+P00203,Pulse USB Cable 392,Accessories,Pulse,46000
+P00204,Vertex Screen Protector 610,Accessories,Vertex,25000
+P00205,Maxwell Air Fryer 198,Home Appliances,Maxwell,117000
+P00206,Prime USB Hub 407,Accessories,Prime,3000
+P00207,TechCore USB Cable 596,Accessories,TechCore,15000
+P00208,TechCore Power Bank 230,Electronics,TechCore,247000
+P00209,Maxwell USB Hub 747,Accessories,Maxwell,44000
+P00210,Zenith Laptop 893,Electronics,Zenith,573000
+P00211,Orbit Game Console 697,Gaming,Orbit,376000
+P00212,UrbanPro Game Console 671,Gaming,UrbanPro,105000
+P00213,Vertex Office Chair 928,Office,Vertex,12000
+P00214,Apex Mechanical Keyboard 638,Accessories,Apex,24000
+P00215,Pulse Stapler 714,Office,Pulse,40000
+P00216,Vertex Refrigerator 139,Home Appliances,Vertex,209000
+P00217,Zenith Wireless Mouse 976,Accessories,Zenith,12000
+P00218,Pulse Screen Protector 272,Accessories,Pulse,36000
+P00219,Apex Monitor 515,Electronics,Apex,198000
+P00220,Vertex Smart TV 955,Electronics,Vertex,759000
+P00221,Pulse Webcam 338,Accessories,Pulse,4000
+P00222,TechCore Smartphone 274,Electronics,TechCore,84000
+P00223,Orbit Game Console 639,Gaming,Orbit,108000
+P00224,Maxwell Gaming Keyboard 178,Gaming,Maxwell,352000
+P00225,NexGen HDMI Cable 648,Accessories,NexGen,8000
+P00226,UrbanPro Laptop Bag 377,Accessories,UrbanPro,14000
+P00227,Nova Stapler 736,Office,Nova,9000
+P00228,Zenith USB Cable 715,Accessories,Zenith,6000
+P00229,Maxwell Whiteboard 294,Office,Maxwell,134000
+P00230,Pulse Monitor 819,Electronics,Pulse,406000
+P00231,Zenith Electric Kettle 392,Home Appliances,Zenith,171000
+P00232,Pulse Laptop 807,Electronics,Pulse,126000
+P00233,Maxwell Filing Cabinet 824,Office,Maxwell,16000
+P00234,TechCore Filing Cabinet 882,Office,TechCore,102000
+P00235,Apex Screen Protector 909,Accessories,Apex,44000
+P00236,NexGen Gaming Headset 543,Gaming,NexGen,517000
+P00237,NexGen Office Chair 270,Office,NexGen,14000
+P00238,Zenith Wireless Mouse 327,Accessories,Zenith,11000
+P00239,Vertex Refrigerator 856,Home Appliances,Vertex,382000
+P00240,NexGen Screen Protector 827,Accessories,NexGen,13000
+P00241,UrbanPro Desk 616,Office,UrbanPro,50000
+P00242,Prime Washing Machine 823,Home Appliances,Prime,339000
+P00243,UrbanPro Stapler 590,Office,UrbanPro,88000
+P00244,Apex Router 462,Electronics,Apex,153000
+P00245,SmartEdge Laptop 918,Electronics,SmartEdge,368000
+P00246,Vertex Webcam 811,Accessories,Vertex,32000
+P00247,NexGen Tablet 493,Electronics,NexGen,143000
+P00248,SmartEdge Microwave 882,Home Appliances,SmartEdge,265000
+P00249,UrbanPro Laptop Bag 116,Accessories,UrbanPro,16000
+P00250,Orbit Air Fryer 187,Home Appliances,Orbit,451000
+P00251,Nova Office Chair 530,Office,Nova,33000
+P00252,Maxwell Gaming Monitor 212,Gaming,Maxwell,574000
+P00253,Pulse Laptop 379,Electronics,Pulse,353000
+P00254,Prime Microwave 474,Home Appliances,Prime,80000
+P00255,Orbit Whiteboard 891,Office,Orbit,17000
+P00256,Nova Wireless Mouse 908,Accessories,Nova,32000
+P00257,Maxwell Game Console 474,Gaming,Maxwell,349000
+P00258,Apex Air Fryer 368,Home Appliances,Apex,19000
+P00259,SmartEdge Microwave 191,Home Appliances,SmartEdge,57000
+P00260,Zenith Smart TV 120,Electronics,Zenith,102000
+P00261,Prime Standing Fan 252,Home Appliances,Prime,81000
+P00262,Nova Laptop 532,Electronics,Nova,136000
+P00263,Nova USB Cable 158,Accessories,Nova,5000
+P00264,Maxwell Webcam 895,Accessories,Maxwell,37000
+P00265,Zenith Monitor 515,Electronics,Zenith,159000
+P00266,Zenith Tablet 515,Electronics,Zenith,141000
+P00267,Orbit Gaming Headset 513,Gaming,Orbit,33000
+P00268,Orbit Blender 376,Home Appliances,Orbit,88000
+P00269,Maxwell Monitor 477,Electronics,Maxwell,580000
+P00270,Vertex HDMI Cable 774,Accessories,Vertex,5000
+P00271,Zenith Refrigerator 176,Home Appliances,Zenith,26000
+P00272,UrbanPro Gaming Headset 816,Gaming,UrbanPro,83000
+P00273,NexGen Screen Protector 691,Accessories,NexGen,68000
+P00274,TechCore External SSD 611,Electronics,TechCore,620000
+P00275,Zenith Blender 608,Home Appliances,Zenith,31000
+P00276,SmartEdge Desk 167,Office,SmartEdge,70000
+P00277,Nova Printer 175,Electronics,Nova,195000
+P00278,Prime Washing Machine 605,Home Appliances,Prime,69000
+P00279,Zenith Laptop Bag 419,Accessories,Zenith,32000
+P00280,Pulse Gaming Monitor 545,Gaming,Pulse,37000
+P00281,Nova Phone Case 186,Accessories,Nova,5000
+P00282,NexGen Standing Fan 647,Home Appliances,NexGen,250000
+P00283,Vertex Desk 250,Office,Vertex,33000
+P00284,Pulse Desk Lamp 873,Office,Pulse,135000
+P00285,Apex Tablet 158,Electronics,Apex,545000
+P00286,Orbit Laptop Bag 523,Accessories,Orbit,4000
+P00287,Pulse Laptop 402,Electronics,Pulse,141000
+P00288,Apex Tablet 940,Electronics,Apex,394000
+P00289,SmartEdge Blender 125,Home Appliances,SmartEdge,152000
+P00290,Zenith USB Hub 308,Accessories,Zenith,3000
+P00291,Nova Filing Cabinet 224,Office,Nova,5000
+P00292,TechCore Office Chair 349,Office,TechCore,6000
+P00293,Pulse Gaming Mouse 919,Gaming,Pulse,29000
+P00294,Vertex Wireless Mouse 874,Accessories,Vertex,17000
+P00295,UrbanPro Air Conditioner 513,Home Appliances,UrbanPro,203000
+P00296,Pulse Printer 747,Electronics,Pulse,218000
+P00297,Orbit Phone Case 577,Accessories,Orbit,9000
+P00298,TechCore Smart TV 805,Electronics,TechCore,93000
+P00299,Maxwell Gaming Mouse 260,Gaming,Maxwell,73000
+P00300,Zenith Electric Kettle 183,Home Appliances,Zenith,259000
+P00301,Prime Tablet 719,Electronics,Prime,712000
+P00302,Zenith HDMI Cable 173,Accessories,Zenith,34000
+P00303,TechCore Stapler 126,Office,TechCore,38000
+P00304,UrbanPro Stapler 750,Office,UrbanPro,16000
+P00305,Pulse Notebook 726,Office,Pulse,11000
+P00306,Orbit Air Fryer 918,Home Appliances,Orbit,124000
+P00307,NexGen Gaming Monitor 370,Gaming,NexGen,126000
+P00308,TechCore Gaming Keyboard 529,Gaming,TechCore,432000
+P00309,Pulse USB Hub 473,Accessories,Pulse,8000
+P00310,Apex Gaming Monitor 299,Gaming,Apex,106000
+P00311,Pulse Desk 837,Office,Pulse,87000
+P00312,Nova Laptop 115,Electronics,Nova,207000
+P00313,Pulse Notebook 557,Office,Pulse,7000
+P00314,TechCore Bluetooth Speaker 397,Electronics,TechCore,132000
+P00315,Apex Game Console 695,Gaming,Apex,141000
+P00316,NexGen Bluetooth Speaker 717,Electronics,NexGen,110000
+P00317,Apex Blender 607,Home Appliances,Apex,23000
+P00318,Apex Gaming Headset 362,Gaming,Apex,222000
+P00319,Nova Whiteboard 808,Office,Nova,100000
+P00320,Orbit Printer 407,Electronics,Orbit,600000
+P00321,Zenith Gaming Monitor 535,Gaming,Zenith,523000
+P00322,NexGen Phone Case 660,Accessories,NexGen,8000
+P00323,Zenith Electric Kettle 899,Home Appliances,Zenith,448000
+P00324,Zenith Tablet 237,Electronics,Zenith,126000
+P00325,Apex Smartphone 943,Electronics,Apex,208000
+P00326,SmartEdge Blender 347,Home Appliances,SmartEdge,612000
+P00327,TechCore Laptop Bag 737,Accessories,TechCore,4000
+P00328,NexGen Smartphone 289,Electronics,NexGen,123000
+P00329,Orbit Monitor 280,Electronics,Orbit,420000
+P00330,Nova Filing Cabinet 932,Office,Nova,83000
+P00331,NexGen Refrigerator 591,Home Appliances,NexGen,27000
+P00332,Orbit Electric Kettle 581,Home Appliances,Orbit,221000
+P00333,Pulse Standing Fan 160,Home Appliances,Pulse,495000
+P00334,Zenith Gaming Monitor 603,Gaming,Zenith,639000
+P00335,Orbit Screen Protector 668,Accessories,Orbit,6000
+P00336,UrbanPro Gaming Monitor 104,Gaming,UrbanPro,218000
+P00337,UrbanPro USB Cable 163,Accessories,UrbanPro,47000
+P00338,SmartEdge Whiteboard 635,Office,SmartEdge,11000
+P00339,Vertex Washing Machine 674,Home Appliances,Vertex,294000
+P00340,NexGen USB Cable 543,Accessories,NexGen,23000
+P00341,Maxwell Smart TV 486,Electronics,Maxwell,245000
+P00342,TechCore Smart TV 426,Electronics,TechCore,138000
+P00343,SmartEdge Air Fryer 444,Home Appliances,SmartEdge,438000
+P00344,NexGen Router 650,Electronics,NexGen,447000
+P00345,TechCore Washing Machine 238,Home Appliances,TechCore,35000
+P00346,Zenith Desk 545,Office,Zenith,8000
+P00347,SmartEdge Notebook 333,Office,SmartEdge,10000
+P00348,Apex Printer 539,Electronics,Apex,539000
+P00349,Zenith Printer 266,Electronics,Zenith,157000
+P00350,TechCore Mechanical Keyboard 336,Accessories,TechCore,13000
+P00351,TechCore Blender 879,Home Appliances,TechCore,17000
+P00352,NexGen Monitor 846,Electronics,NexGen,280000
+P00353,Maxwell Microwave 113,Home Appliances,Maxwell,259000
+P00354,SmartEdge Tablet 226,Electronics,SmartEdge,344000
+P00355,TechCore Printer 126,Electronics,TechCore,84000
+P00356,UrbanPro Webcam 613,Accessories,UrbanPro,48000
+P00357,UrbanPro Standing Fan 673,Home Appliances,UrbanPro,292000
+P00358,Zenith Phone Case 646,Accessories,Zenith,5000
+P00359,Orbit Filing Cabinet 147,Office,Orbit,7000
+P00360,Orbit External SSD 189,Electronics,Orbit,160000
+P00361,Vertex Monitor 644,Electronics,Vertex,390000
+P00362,Zenith Gaming Mouse 915,Gaming,Zenith,231000
+P00363,Zenith Phone Case 602,Accessories,Zenith,10000
+P00364,Orbit Refrigerator 226,Home Appliances,Orbit,63000
+P00365,UrbanPro Filing Cabinet 614,Office,UrbanPro,102000
+P00366,Maxwell Mechanical Keyboard 332,Accessories,Maxwell,23000
+P00367,Apex Tablet 557,Electronics,Apex,526000
+P00368,SmartEdge Printer Paper 388,Office,SmartEdge,6000
+P00369,TechCore Desk 400,Office,TechCore,25000
+P00370,Vertex Air Conditioner 391,Home Appliances,Vertex,23000
+P00371,Pulse Game Console 290,Gaming,Pulse,25000
+P00372,Orbit Screen Protector 585,Accessories,Orbit,24000
+P00373,UrbanPro Tablet 962,Electronics,UrbanPro,175000
+P00374,Zenith Notebook 675,Office,Zenith,6000
+P00375,Nova Whiteboard 568,Office,Nova,46000
+P00376,NexGen Webcam 553,Accessories,NexGen,7000
+P00377,SmartEdge Power Bank 231,Electronics,SmartEdge,220000
+P00378,Nova Whiteboard 493,Office,Nova,12000
+P00379,TechCore Tablet 216,Electronics,TechCore,173000
+P00380,Apex Laptop 632,Electronics,Apex,125000
+P00381,NexGen Printer Paper 775,Office,NexGen,62000
+P00382,NexGen Wireless Mouse 149,Accessories,NexGen,18000
+P00383,NexGen Whiteboard 754,Office,NexGen,11000
+P00384,Apex Electric Kettle 702,Home Appliances,Apex,45000
+P00385,Apex Gaming Keyboard 563,Gaming,Apex,206000
+P00386,Zenith Printer Paper 171,Office,Zenith,15000
+P00387,Prime Blender 322,Home Appliances,Prime,247000
+P00388,Pulse Notebook 210,Office,Pulse,14000
+P00389,Prime Router 962,Electronics,Prime,412000
+P00390,Maxwell Gaming Keyboard 425,Gaming,Maxwell,120000
+P00391,SmartEdge Gaming Mouse 451,Gaming,SmartEdge,134000
+P00392,Orbit Wireless Mouse 973,Accessories,Orbit,8000
+P00393,Apex Electric Kettle 662,Home Appliances,Apex,545000
+P00394,Apex Gaming Mouse 433,Gaming,Apex,27000
+P00395,TechCore HDMI Cable 624,Accessories,TechCore,6000
+P00396,UrbanPro Smart TV 474,Electronics,UrbanPro,185000
+P00397,Prime Gaming Monitor 912,Gaming,Prime,506000
+P00398,Pulse Power Bank 660,Electronics,Pulse,136000
+P00399,SmartEdge Router 962,Electronics,SmartEdge,577000
+P00400,Zenith Blender 189,Home Appliances,Zenith,262000
+P00401,Apex Screen Protector 541,Accessories,Apex,28000
+P00402,Pulse Power Bank 901,Electronics,Pulse,141000
+P00403,Orbit Gaming Headset 920,Gaming,Orbit,200000
+P00404,Prime Smartphone 804,Electronics,Prime,82000
+P00405,Maxwell Gaming Mouse 370,Gaming,Maxwell,169000
+P00406,Zenith Air Fryer 816,Home Appliances,Zenith,436000
+P00407,TechCore Wireless Mouse 973,Accessories,TechCore,19000
+P00408,Vertex USB Hub 520,Accessories,Vertex,41000
+P00409,NexGen Monitor 647,Electronics,NexGen,80000
+P00410,NexGen Gaming Mouse 620,Gaming,NexGen,103000
+P00411,Prime Desk 840,Office,Prime,6000
+P00412,TechCore Gaming Monitor 778,Gaming,TechCore,345000
+P00413,Maxwell Smartphone 263,Electronics,Maxwell,468000
+P00414,Vertex Gaming Mouse 781,Gaming,Vertex,133000
+P00415,Pulse Printer Paper 565,Office,Pulse,47000
+P00416,Apex Electric Kettle 695,Home Appliances,Apex,59000
+P00417,TechCore Washing Machine 125,Home Appliances,TechCore,17000
+P00418,Orbit USB Cable 592,Accessories,Orbit,13000
+P00419,Apex Microwave 713,Home Appliances,Apex,52000
+P00420,Pulse Controller 214,Gaming,Pulse,516000
+P00421,TechCore Desk Lamp 947,Office,TechCore,27000
+P00422,SmartEdge Webcam 541,Accessories,SmartEdge,69000
+P00423,Apex Air Conditioner 272,Home Appliances,Apex,290000
+P00424,Zenith Webcam 977,Accessories,Zenith,42000
+P00425,Nova Laptop Bag 311,Accessories,Nova,9000
+P00426,NexGen Air Fryer 502,Home Appliances,NexGen,24000
+P00427,Pulse Phone Case 548,Accessories,Pulse,9000
+P00428,Vertex Air Fryer 875,Home Appliances,Vertex,110000
+P00429,Maxwell Controller 493,Gaming,Maxwell,443000
+P00430,Apex Smart TV 601,Electronics,Apex,445000
+P00431,Pulse USB Hub 729,Accessories,Pulse,33000
+P00432,Vertex External SSD 246,Electronics,Vertex,526000
+P00433,Orbit Tablet 302,Electronics,Orbit,487000
+P00434,Zenith Laptop 962,Electronics,Zenith,374000
+P00435,Vertex Webcam 896,Accessories,Vertex,20000
+P00436,Apex Smart TV 730,Electronics,Apex,505000
+P00437,Maxwell Filing Cabinet 121,Office,Maxwell,7000
+P00438,Prime Laptop Bag 726,Accessories,Prime,59000
+P00439,Zenith Power Bank 102,Electronics,Zenith,266000
+P00440,Apex Gaming Keyboard 720,Gaming,Apex,37000
+P00441,Maxwell Washing Machine 420,Home Appliances,Maxwell,37000
+P00442,TechCore Whiteboard 391,Office,TechCore,98000
+P00443,Vertex Stapler 163,Office,Vertex,32000
+P00444,TechCore Bluetooth Speaker 744,Electronics,TechCore,234000
+P00445,Apex Washing Machine 621,Home Appliances,Apex,36000
+P00446,Nova Smart TV 833,Electronics,Nova,293000
+P00447,Apex Electric Kettle 904,Home Appliances,Apex,60000
+P00448,Vertex Gaming Monitor 129,Gaming,Vertex,116000
+P00449,Vertex Power Bank 918,Electronics,Vertex,84000
+P00450,UrbanPro Filing Cabinet 813,Office,UrbanPro,7000
+P00451,Nova Tablet 852,Electronics,Nova,774000
+P00452,Zenith Electric Kettle 309,Home Appliances,Zenith,71000
+P00453,SmartEdge Printer 430,Electronics,SmartEdge,104000
+P00454,Pulse Gaming Monitor 526,Gaming,Pulse,124000
+P00455,Prime Screen Protector 811,Accessories,Prime,23000
+P00456,Maxwell Controller 397,Gaming,Maxwell,43000
+P00457,Maxwell Gaming Headset 901,Gaming,Maxwell,281000
+P00458,NexGen Smart TV 971,Electronics,NexGen,541000
+P00459,Pulse Microwave 973,Home Appliances,Pulse,322000
+P00460,NexGen Air Fryer 688,Home Appliances,NexGen,547000
+P00461,Nova Phone Case 377,Accessories,Nova,30000
+P00462,Zenith Desk 728,Office,Zenith,125000
+P00463,Pulse Screen Protector 290,Accessories,Pulse,57000
+P00464,SmartEdge Game Console 176,Gaming,SmartEdge,83000
+P00465,UrbanPro Washing Machine 828,Home Appliances,UrbanPro,540000
+P00466,Zenith Microwave 493,Home Appliances,Zenith,281000
+P00467,Orbit Game Console 971,Gaming,Orbit,26000
+P00468,Nova Office Chair 322,Office,Nova,20000
+P00469,Prime Mechanical Keyboard 285,Accessories,Prime,50000
+P00470,Zenith Laptop Bag 523,Accessories,Zenith,5000
+P00471,SmartEdge Monitor 895,Electronics,SmartEdge,214000
+P00472,TechCore USB Hub 333,Accessories,TechCore,79000
+P00473,Prime Standing Fan 520,Home Appliances,Prime,32000
+P00474,Orbit Standing Fan 839,Home Appliances,Orbit,82000
+P00475,TechCore Whiteboard 244,Office,TechCore,7000
+P00476,TechCore Power Bank 174,Electronics,TechCore,115000
+P00477,SmartEdge USB Hub 563,Accessories,SmartEdge,4000
+P00478,Prime Whiteboard 839,Office,Prime,121000
+P00479,Orbit Filing Cabinet 229,Office,Orbit,10000
+P00480,TechCore Microwave 396,Home Appliances,TechCore,158000
+P00481,Orbit Whiteboard 744,Office,Orbit,31000
+P00482,Vertex Printer Paper 267,Office,Vertex,125000
+P00483,Apex Phone Case 304,Accessories,Apex,4000
+P00484,Pulse Whiteboard 180,Office,Pulse,36000
+P00485,UrbanPro Bluetooth Speaker 374,Electronics,UrbanPro,156000
+P00486,Apex Standing Fan 980,Home Appliances,Apex,23000
+P00487,NexGen Wireless Mouse 632,Accessories,NexGen,50000
+P00488,Maxwell Desk 356,Office,Maxwell,119000
+P00489,Apex Webcam 710,Accessories,Apex,48000
+P00490,SmartEdge Printer Paper 706,Office,SmartEdge,12000
+P00491,Nova Gaming Mouse 547,Gaming,Nova,132000
+P00492,UrbanPro HDMI Cable 449,Accessories,UrbanPro,64000
+P00493,Pulse Smartphone 844,Electronics,Pulse,655000
+P00494,SmartEdge Filing Cabinet 797,Office,SmartEdge,23000
+P00495,Zenith Gaming Mouse 550,Gaming,Zenith,36000
+P00496,TechCore Gaming Mouse 276,Gaming,TechCore,31000
+P00497,Pulse Bluetooth Speaker 182,Electronics,Pulse,167000
+P00498,Apex Smartphone 887,Electronics,Apex,614000
+P00499,Prime Monitor 189,Electronics,Prime,71000
+P00500,Pulse Microwave 102,Home Appliances,Pulse,556000
+P00501,SmartEdge Mechanical Keyboard 614,Accessories,SmartEdge,69000
+P00502,Vertex Printer 131,Electronics,Vertex,270000
+P00503,Maxwell Power Bank 852,Electronics,Maxwell,169000
+P00504,Apex Webcam 913,Accessories,Apex,9000
+P00505,Apex Tablet 853,Electronics,Apex,245000
+P00506,Vertex Desk Lamp 516,Office,Vertex,83000
+P00507,Nova Controller 875,Gaming,Nova,380000
+P00508,Zenith Power Bank 168,Electronics,Zenith,729000
+P00509,UrbanPro Standing Fan 698,Home Appliances,UrbanPro,336000
+P00510,TechCore Smartphone 933,Electronics,TechCore,386000
+P00511,NexGen Monitor 778,Electronics,NexGen,77000
+P00512,TechCore Mechanical Keyboard 642,Accessories,TechCore,10000
+P00513,Prime Printer Paper 361,Office,Prime,12000
+P00514,Orbit Stapler 431,Office,Orbit,46000
+P00515,UrbanPro Filing Cabinet 132,Office,UrbanPro,15000
+P00516,Zenith Smart TV 647,Electronics,Zenith,102000
+P00517,SmartEdge Power Bank 126,Electronics,SmartEdge,188000
+P00518,Apex Refrigerator 428,Home Appliances,Apex,58000
+P00519,SmartEdge Webcam 249,Accessories,SmartEdge,6000
+P00520,Vertex Notebook 665,Office,Vertex,5000
+P00521,TechCore Air Conditioner 308,Home Appliances,TechCore,287000
+P00522,TechCore Standing Fan 908,Home Appliances,TechCore,52000
+P00523,SmartEdge Standing Fan 609,Home Appliances,SmartEdge,615000
+P00524,UrbanPro Gaming Keyboard 986,Gaming,UrbanPro,92000
+P00525,TechCore Air Conditioner 365,Home Appliances,TechCore,19000
+P00526,Nova Stapler 321,Office,Nova,33000
+P00527,Prime Blender 572,Home Appliances,Prime,521000
+P00528,Pulse Monitor 397,Electronics,Pulse,612000
+P00529,UrbanPro Air Conditioner 923,Home Appliances,UrbanPro,28000
+P00530,Prime Game Console 812,Gaming,Prime,119000
+P00531,SmartEdge Stapler 198,Office,SmartEdge,15000
+P00532,Prime Air Conditioner 336,Home Appliances,Prime,171000
+P00533,Vertex Controller 364,Gaming,Vertex,496000
+P00534,NexGen Controller 777,Gaming,NexGen,64000
+P00535,Nova Gaming Keyboard 228,Gaming,Nova,85000
+P00536,Nova Gaming Monitor 696,Gaming,Nova,54000
+P00537,Prime HDMI Cable 726,Accessories,Prime,5000
+P00538,Zenith Router 222,Electronics,Zenith,705000
+P00539,Prime Screen Protector 406,Accessories,Prime,7000
+P00540,TechCore Wireless Mouse 682,Accessories,TechCore,21000
+P00541,Zenith Router 984,Electronics,Zenith,733000
+P00542,UrbanPro Air Fryer 285,Home Appliances,UrbanPro,51000
+P00543,UrbanPro Smart TV 648,Electronics,UrbanPro,129000
+P00544,NexGen Tablet 833,Electronics,NexGen,135000
+P00545,UrbanPro External SSD 109,Electronics,UrbanPro,216000
+P00546,Maxwell USB Hub 479,Accessories,Maxwell,40000
+P00547,Maxwell Office Chair 785,Office,Maxwell,175000
+P00548,Prime Gaming Monitor 209,Gaming,Prime,155000
+P00549,TechCore Washing Machine 651,Home Appliances,TechCore,111000
+P00550,Maxwell Electric Kettle 829,Home Appliances,Maxwell,401000
+P00551,Nova USB Cable 737,Accessories,Nova,65000
+P00552,Apex HDMI Cable 469,Accessories,Apex,14000
+P00553,Pulse Washing Machine 371,Home Appliances,Pulse,94000
+P00554,UrbanPro External SSD 330,Electronics,UrbanPro,99000
+P00555,Pulse Monitor 171,Electronics,Pulse,379000
+P00556,TechCore Notebook 258,Office,TechCore,20000
+P00557,SmartEdge Gaming Monitor 400,Gaming,SmartEdge,236000
+P00558,Zenith Gaming Keyboard 851,Gaming,Zenith,138000
+P00559,SmartEdge Office Chair 368,Office,SmartEdge,33000
+P00560,Prime Gaming Mouse 976,Gaming,Prime,175000
+P00561,Zenith Stapler 409,Office,Zenith,38000
+P00562,Orbit Tablet 656,Electronics,Orbit,457000
+P00563,SmartEdge Webcam 241,Accessories,SmartEdge,72000
+P00564,NexGen Monitor 727,Electronics,NexGen,777000
+P00565,Vertex Wireless Mouse 783,Accessories,Vertex,23000
+P00566,Maxwell Gaming Monitor 330,Gaming,Maxwell,41000
+P00567,Orbit Desk Lamp 542,Office,Orbit,8000
+P00568,Zenith Controller 911,Gaming,Zenith,133000
+P00569,NexGen Blender 746,Home Appliances,NexGen,82000
+P00570,Apex Power Bank 817,Electronics,Apex,187000
+P00571,Nova Webcam 193,Accessories,Nova,4000
+P00572,UrbanPro Power Bank 995,Electronics,UrbanPro,153000
+P00573,TechCore Controller 685,Gaming,TechCore,142000
+P00574,TechCore Refrigerator 450,Home Appliances,TechCore,22000
+P00575,Prime Smartphone 612,Electronics,Prime,676000
+P00576,Nova HDMI Cable 864,Accessories,Nova,4000
+P00577,Vertex Microwave 656,Home Appliances,Vertex,23000
+P00578,Zenith Filing Cabinet 884,Office,Zenith,9000
+P00579,Prime Gaming Headset 332,Gaming,Prime,596000
+P00580,UrbanPro Power Bank 914,Electronics,UrbanPro,552000
+P00581,Apex Desk 797,Office,Apex,76000
+P00582,Prime Desk Lamp 162,Office,Prime,62000
+P00583,Nova Whiteboard 376,Office,Nova,18000
+P00584,Zenith Mechanical Keyboard 513,Accessories,Zenith,6000
+P00585,UrbanPro HDMI Cable 572,Accessories,UrbanPro,7000
+P00586,NexGen Printer 107,Electronics,NexGen,226000
+P00587,Orbit Standing Fan 627,Home Appliances,Orbit,25000
+P00588,Maxwell Laptop Bag 617,Accessories,Maxwell,75000
+P00589,Prime USB Hub 991,Accessories,Prime,64000
+P00590,Maxwell Laptop 630,Electronics,Maxwell,371000
+P00591,NexGen Gaming Keyboard 281,Gaming,NexGen,165000
+P00592,Apex Air Fryer 368,Home Appliances,Apex,28000
+P00593,UrbanPro Bluetooth Speaker 349,Electronics,UrbanPro,157000
+P00594,Zenith Tablet 777,Electronics,Zenith,112000
+P00595,TechCore Webcam 623,Accessories,TechCore,10000
+P00596,NexGen Router 495,Electronics,NexGen,184000
+P00597,TechCore External SSD 617,Electronics,TechCore,198000
+P00598,Maxwell Whiteboard 983,Office,Maxwell,11000
+P00599,NexGen Tablet 724,Electronics,NexGen,303000
+P00600,UrbanPro Microwave 873,Home Appliances,UrbanPro,57000
+P00601,Maxwell Stapler 849,Office,Maxwell,19000
+P00602,Vertex Refrigerator 851,Home Appliances,Vertex,36000
+P00603,SmartEdge Printer 282,Electronics,SmartEdge,710000
+P00604,SmartEdge Mechanical Keyboard 840,Accessories,SmartEdge,3000
+P00605,SmartEdge External SSD 319,Electronics,SmartEdge,290000
+P00606,Pulse Controller 984,Gaming,Pulse,143000
+P00607,UrbanPro Office Chair 376,Office,UrbanPro,146000
+P00608,Vertex Gaming Monitor 559,Gaming,Vertex,236000
+P00609,Nova Printer 228,Electronics,Nova,141000
+P00610,UrbanPro Laptop Bag 121,Accessories,UrbanPro,5000
+P00611,Orbit Laptop Bag 343,Accessories,Orbit,24000
+P00612,Pulse Whiteboard 779,Office,Pulse,41000
+P00613,NexGen Tablet 498,Electronics,NexGen,71000
+P00614,Prime Whiteboard 651,Office,Prime,13000
+P00615,UrbanPro Blender 612,Home Appliances,UrbanPro,26000
+P00616,TechCore Gaming Mouse 674,Gaming,TechCore,169000
+P00617,Prime HDMI Cable 980,Accessories,Prime,4000
+P00618,Vertex Game Console 512,Gaming,Vertex,104000
+P00619,Nova Gaming Headset 930,Gaming,Nova,259000
+P00620,UrbanPro Screen Protector 699,Accessories,UrbanPro,28000
+P00621,NexGen Gaming Headset 710,Gaming,NexGen,240000
+P00622,Orbit Laptop Bag 563,Accessories,Orbit,18000
+P00623,Maxwell Office Chair 785,Office,Maxwell,28000
+P00624,TechCore Gaming Keyboard 223,Gaming,TechCore,115000
+P00625,Maxwell External SSD 672,Electronics,Maxwell,230000
+P00626,Prime USB Hub 655,Accessories,Prime,19000
+P00627,SmartEdge Tablet 257,Electronics,SmartEdge,177000
+P00628,TechCore Electric Kettle 133,Home Appliances,TechCore,239000
+P00629,Pulse Mechanical Keyboard 938,Accessories,Pulse,7000
+P00630,SmartEdge Monitor 400,Electronics,SmartEdge,172000
+P00631,Pulse Gaming Mouse 325,Gaming,Pulse,38000
+P00632,NexGen USB Cable 351,Accessories,NexGen,9000
+P00633,Nova Filing Cabinet 936,Office,Nova,12000
+P00634,Nova Router 144,Electronics,Nova,274000
+P00635,TechCore Wireless Mouse 827,Accessories,TechCore,64000
+P00636,Vertex Monitor 311,Electronics,Vertex,89000
+P00637,NexGen Filing Cabinet 720,Office,NexGen,10000
+P00638,Maxwell Webcam 788,Accessories,Maxwell,22000
+P00639,Prime Gaming Headset 371,Gaming,Prime,131000
+P00640,Orbit Electric Kettle 696,Home Appliances,Orbit,38000
+P00641,UrbanPro External SSD 460,Electronics,UrbanPro,174000
+P00642,Zenith Stapler 807,Office,Zenith,11000
+P00643,UrbanPro Game Console 298,Gaming,UrbanPro,182000
+P00644,Apex Refrigerator 734,Home Appliances,Apex,74000
+P00645,Apex Desk 504,Office,Apex,60000
+P00646,Zenith Desk Lamp 659,Office,Zenith,52000
+P00647,Vertex Smart TV 624,Electronics,Vertex,86000
+P00648,Pulse Bluetooth Speaker 818,Electronics,Pulse,79000
+P00649,SmartEdge Stapler 147,Office,SmartEdge,97000
+P00650,TechCore Whiteboard 803,Office,TechCore,16000
+P00651,Maxwell External SSD 446,Electronics,Maxwell,352000
+P00652,Zenith Tablet 365,Electronics,Zenith,132000
+P00653,Maxwell Air Conditioner 997,Home Appliances,Maxwell,24000
+P00654,Maxwell Mechanical Keyboard 593,Accessories,Maxwell,28000
+P00655,SmartEdge Router 433,Electronics,SmartEdge,771000
+P00656,Maxwell Screen Protector 901,Accessories,Maxwell,52000
+P00657,UrbanPro Wireless Mouse 990,Accessories,UrbanPro,4000
+P00658,UrbanPro Controller 409,Gaming,UrbanPro,287000
+P00659,Zenith Desk Lamp 163,Office,Zenith,21000
+P00660,TechCore Monitor 374,Electronics,TechCore,473000
+P00661,Prime Controller 564,Gaming,Prime,76000
+P00662,Maxwell Wireless Mouse 285,Accessories,Maxwell,16000
+P00663,UrbanPro Router 741,Electronics,UrbanPro,72000
+P00664,SmartEdge Router 745,Electronics,SmartEdge,203000
+P00665,Orbit Webcam 434,Accessories,Orbit,11000
+P00666,Vertex Phone Case 341,Accessories,Vertex,59000
+P00667,UrbanPro Gaming Mouse 418,Gaming,UrbanPro,87000
+P00668,Vertex HDMI Cable 282,Accessories,Vertex,6000
+P00669,Zenith Desk 186,Office,Zenith,148000
+P00670,UrbanPro Monitor 202,Electronics,UrbanPro,396000
+P00671,NexGen Desk Lamp 758,Office,NexGen,9000
+P00672,Prime Blender 417,Home Appliances,Prime,169000
+P00673,SmartEdge Standing Fan 475,Home Appliances,SmartEdge,38000
+P00674,Nova Blender 752,Home Appliances,Nova,429000
+P00675,Vertex Notebook 358,Office,Vertex,125000
+P00676,SmartEdge Washing Machine 699,Home Appliances,SmartEdge,90000
+P00677,Nova Laptop Bag 647,Accessories,Nova,52000
+P00678,Zenith Printer Paper 501,Office,Zenith,6000
+P00679,Apex Smart TV 808,Electronics,Apex,569000
+P00680,NexGen Controller 772,Gaming,NexGen,564000
+P00681,Nova Washing Machine 281,Home Appliances,Nova,28000
+P00682,Nova Smart TV 203,Electronics,Nova,162000
+P00683,UrbanPro Microwave 422,Home Appliances,UrbanPro,215000
+P00684,UrbanPro HDMI Cable 312,Accessories,UrbanPro,6000
+P00685,Nova Tablet 791,Electronics,Nova,693000
+P00686,NexGen Controller 803,Gaming,NexGen,71000
+P00687,Pulse Game Console 791,Gaming,Pulse,501000
+P00688,Prime Standing Fan 259,Home Appliances,Prime,67000
+P00689,SmartEdge Printer 149,Electronics,SmartEdge,477000
+P00690,Apex USB Hub 169,Accessories,Apex,8000
+P00691,SmartEdge Filing Cabinet 382,Office,SmartEdge,12000
+P00692,Apex Phone Case 228,Accessories,Apex,10000
+P00693,TechCore Air Conditioner 965,Home Appliances,TechCore,158000
+P00694,TechCore Printer Paper 739,Office,TechCore,8000
+P00695,Zenith External SSD 678,Electronics,Zenith,109000
+P00696,Apex Game Console 898,Gaming,Apex,43000
+P00697,Zenith Gaming Monitor 295,Gaming,Zenith,27000
+P00698,Maxwell USB Cable 706,Accessories,Maxwell,26000
+P00699,Maxwell Gaming Keyboard 320,Gaming,Maxwell,111000
+P00700,Prime USB Cable 991,Accessories,Prime,23000
+P00701,Vertex Desk 260,Office,Vertex,49000
+P00702,Nova Desk 741,Office,Nova,133000
+P00703,Nova Gaming Keyboard 259,Gaming,Nova,176000
+P00704,SmartEdge Tablet 529,Electronics,SmartEdge,144000
+P00705,NexGen Refrigerator 416,Home Appliances,NexGen,148000
+P00706,TechCore Printer Paper 248,Office,TechCore,51000
+P00707,Nova Monitor 254,Electronics,Nova,516000
+P00708,Pulse Laptop 751,Electronics,Pulse,719000
+P00709,Prime Tablet 395,Electronics,Prime,457000
+P00710,SmartEdge Screen Protector 832,Accessories,SmartEdge,8000
+P00711,Orbit Air Conditioner 626,Home Appliances,Orbit,370000
+P00712,UrbanPro Whiteboard 602,Office,UrbanPro,20000
+P00713,Apex Phone Case 808,Accessories,Apex,30000
+P00714,UrbanPro Gaming Mouse 813,Gaming,UrbanPro,109000
+P00715,Nova Smart TV 858,Electronics,Nova,335000
+P00716,TechCore Washing Machine 470,Home Appliances,TechCore,327000
+P00717,Orbit Blender 643,Home Appliances,Orbit,288000
+P00718,Nova Electric Kettle 304,Home Appliances,Nova,192000
+P00719,Nova Microwave 203,Home Appliances,Nova,293000
+P00720,Orbit Desk 415,Office,Orbit,10000
+P00721,Apex Filing Cabinet 473,Office,Apex,77000
+P00722,Pulse Printer Paper 924,Office,Pulse,46000
+P00723,UrbanPro Webcam 847,Accessories,UrbanPro,31000
+P00724,Prime Laptop 154,Electronics,Prime,97000
+P00725,Pulse Router 906,Electronics,Pulse,126000
+P00726,Apex Refrigerator 442,Home Appliances,Apex,248000
+P00727,Prime Router 689,Electronics,Prime,643000
+P00728,Vertex Stapler 179,Office,Vertex,88000
+P00729,SmartEdge Laptop 540,Electronics,SmartEdge,531000
+P00730,Apex Gaming Mouse 134,Gaming,Apex,33000
+P00731,Apex Gaming Monitor 627,Gaming,Apex,158000
+P00732,Zenith USB Hub 375,Accessories,Zenith,5000
+P00733,UrbanPro Game Console 109,Gaming,UrbanPro,90000
+P00734,Maxwell Gaming Headset 845,Gaming,Maxwell,590000
+P00735,Nova Desk Lamp 859,Office,Nova,12000
+P00736,Apex Washing Machine 260,Home Appliances,Apex,156000
+P00737,Nova Power Bank 186,Electronics,Nova,479000
+P00738,Orbit HDMI Cable 778,Accessories,Orbit,12000
+P00739,Pulse Laptop Bag 358,Accessories,Pulse,57000
+P00740,SmartEdge Gaming Monitor 857,Gaming,SmartEdge,179000
+P00741,TechCore Air Fryer 103,Home Appliances,TechCore,418000
+P00742,Orbit Tablet 270,Electronics,Orbit,88000
+P00743,Nova Router 903,Electronics,Nova,72000
+P00744,UrbanPro Game Console 922,Gaming,UrbanPro,31000
+P00745,TechCore Blender 166,Home Appliances,TechCore,49000
+P00746,Orbit Electric Kettle 754,Home Appliances,Orbit,64000
+P00747,Zenith Gaming Mouse 957,Gaming,Zenith,39000
+P00748,Vertex Standing Fan 907,Home Appliances,Vertex,30000
+P00749,Vertex USB Hub 761,Accessories,Vertex,3000
+P00750,Pulse Printer Paper 790,Office,Pulse,29000
+P00751,Vertex HDMI Cable 275,Accessories,Vertex,26000
+P00752,SmartEdge Gaming Keyboard 463,Gaming,SmartEdge,29000
+P00753,Nova Tablet 864,Electronics,Nova,287000
+P00754,Maxwell Gaming Headset 370,Gaming,Maxwell,54000
+P00755,TechCore Printer 751,Electronics,TechCore,160000
+P00756,Zenith Blender 569,Home Appliances,Zenith,24000
+P00757,UrbanPro Power Bank 568,Electronics,UrbanPro,295000
+P00758,Nova Filing Cabinet 490,Office,Nova,35000
+P00759,Vertex Blender 505,Home Appliances,Vertex,664000
+P00760,SmartEdge Notebook 598,Office,SmartEdge,100000
+P00761,UrbanPro Standing Fan 830,Home Appliances,UrbanPro,157000
+P00762,Prime Laptop Bag 227,Accessories,Prime,75000
+P00763,NexGen Notebook 263,Office,NexGen,40000
+P00764,TechCore USB Cable 907,Accessories,TechCore,4000
+P00765,NexGen Bluetooth Speaker 720,Electronics,NexGen,788000
+P00766,Nova Desk Lamp 779,Office,Nova,21000
+P00767,SmartEdge Gaming Monitor 922,Gaming,SmartEdge,624000
+P00768,Apex Electric Kettle 562,Home Appliances,Apex,413000
+P00769,Prime Controller 220,Gaming,Prime,50000
+P00770,Nova Bluetooth Speaker 406,Electronics,Nova,83000
+P00771,Pulse Laptop 707,Electronics,Pulse,77000
+P00772,Maxwell Gaming Headset 816,Gaming,Maxwell,368000
+P00773,SmartEdge Printer Paper 279,Office,SmartEdge,7000
+P00774,Pulse Microwave 996,Home Appliances,Pulse,620000
+P00775,Apex Game Console 930,Gaming,Apex,593000
+P00776,Apex Game Console 809,Gaming,Apex,40000
+P00777,UrbanPro Laptop Bag 331,Accessories,UrbanPro,6000
+P00778,TechCore Router 821,Electronics,TechCore,232000
+P00779,TechCore Washing Machine 302,Home Appliances,TechCore,82000
+P00780,SmartEdge Gaming Headset 357,Gaming,SmartEdge,484000
+P00781,NexGen Standing Fan 787,Home Appliances,NexGen,293000
+P00782,Apex USB Hub 500,Accessories,Apex,4000
+P00783,Nova Bluetooth Speaker 750,Electronics,Nova,96000
+P00784,SmartEdge Mechanical Keyboard 371,Accessories,SmartEdge,34000
+P00785,Maxwell Stapler 473,Office,Maxwell,58000
+P00786,Pulse Webcam 716,Accessories,Pulse,19000
+P00787,Maxwell Microwave 543,Home Appliances,Maxwell,377000
+P00788,Zenith Refrigerator 349,Home Appliances,Zenith,223000
+P00789,Maxwell USB Cable 178,Accessories,Maxwell,14000
+P00790,Nova USB Cable 434,Accessories,Nova,15000
+P00791,UrbanPro Filing Cabinet 335,Office,UrbanPro,136000
+P00792,Zenith Air Fryer 289,Home Appliances,Zenith,686000
+P00793,Vertex Stapler 394,Office,Vertex,43000
+P00794,Pulse Microwave 533,Home Appliances,Pulse,477000
+P00795,Orbit Laptop 252,Electronics,Orbit,133000
+P00796,SmartEdge Air Fryer 902,Home Appliances,SmartEdge,265000
+P00797,NexGen Laptop 566,Electronics,NexGen,453000
+P00798,Nova HDMI Cable 560,Accessories,Nova,62000
+P00799,Nova Notebook 309,Office,Nova,11000
+P00800,UrbanPro Wireless Mouse 832,Accessories,UrbanPro,25000
+P00801,Apex Game Console 210,Gaming,Apex,243000
+P00802,Nova Office Chair 157,Office,Nova,26000
+P00803,Orbit Gaming Mouse 192,Gaming,Orbit,501000
+P00804,NexGen Electric Kettle 421,Home Appliances,NexGen,499000
+P00805,Zenith Screen Protector 733,Accessories,Zenith,20000
+P00806,Zenith Printer 741,Electronics,Zenith,534000
+P00807,Maxwell Gaming Headset 335,Gaming,Maxwell,129000
+P00808,Pulse Air Fryer 711,Home Appliances,Pulse,32000
+P00809,UrbanPro Desk Lamp 749,Office,UrbanPro,21000
+P00810,Prime Mechanical Keyboard 325,Accessories,Prime,39000
+P00811,Apex Power Bank 549,Electronics,Apex,74000
+P00812,Maxwell Laptop Bag 192,Accessories,Maxwell,9000
+P00813,Nova Blender 450,Home Appliances,Nova,79000
+P00814,Pulse Game Console 395,Gaming,Pulse,52000
+P00815,Apex Wireless Mouse 965,Accessories,Apex,3000
+P00816,Apex Power Bank 264,Electronics,Apex,402000
+P00817,Maxwell Smart TV 691,Electronics,Maxwell,277000
+P00818,Pulse Phone Case 644,Accessories,Pulse,17000
+P00819,NexGen Smart TV 900,Electronics,NexGen,582000
+P00820,TechCore Monitor 562,Electronics,TechCore,75000
+P00821,UrbanPro Laptop Bag 137,Accessories,UrbanPro,13000
+P00822,Nova Screen Protector 991,Accessories,Nova,59000
+P00823,Pulse USB Hub 345,Accessories,Pulse,31000
+P00824,SmartEdge Gaming Mouse 354,Gaming,SmartEdge,31000
+P00825,Prime Gaming Mouse 357,Gaming,Prime,180000
+P00826,Apex Air Conditioner 982,Home Appliances,Apex,261000
+P00827,Vertex Gaming Keyboard 992,Gaming,Vertex,50000
+P00828,TechCore Game Console 475,Gaming,TechCore,127000
+P00829,Nova Smartphone 164,Electronics,Nova,113000
+P00830,Prime Air Conditioner 703,Home Appliances,Prime,262000
+P00831,UrbanPro Laptop Bag 294,Accessories,UrbanPro,37000
+P00832,SmartEdge Tablet 665,Electronics,SmartEdge,433000
+P00833,Apex Air Fryer 255,Home Appliances,Apex,69000
+P00834,Prime Microwave 917,Home Appliances,Prime,193000
+P00835,Prime Washing Machine 985,Home Appliances,Prime,326000
+P00836,NexGen Bluetooth Speaker 682,Electronics,NexGen,101000
+P00837,Nova Printer Paper 409,Office,Nova,18000
+P00838,Zenith Phone Case 695,Accessories,Zenith,9000
+P00839,Nova Bluetooth Speaker 596,Electronics,Nova,473000
+P00840,Zenith Bluetooth Speaker 416,Electronics,Zenith,385000
+P00841,Pulse Mechanical Keyboard 244,Accessories,Pulse,15000
+P00842,NexGen Smart TV 508,Electronics,NexGen,80000
+P00843,Vertex Game Console 929,Gaming,Vertex,602000
+P00844,SmartEdge Power Bank 427,Electronics,SmartEdge,623000
+P00845,Zenith Notebook 941,Office,Zenith,73000
+P00846,Apex USB Hub 500,Accessories,Apex,4000
+P00847,Orbit Smart TV 857,Electronics,Orbit,173000
+P00848,UrbanPro Desk Lamp 997,Office,UrbanPro,40000
+P00849,Zenith Desk Lamp 381,Office,Zenith,6000
+P00850,Apex Stapler 297,Office,Apex,36000
+P00851,NexGen Webcam 723,Accessories,NexGen,72000
+P00852,SmartEdge Smartphone 222,Electronics,SmartEdge,307000
+P00853,NexGen Whiteboard 972,Office,NexGen,85000
+P00854,Maxwell Stapler 608,Office,Maxwell,89000
+P00855,Nova Game Console 579,Gaming,Nova,232000
+P00856,Prime Smartphone 883,Electronics,Prime,77000
+P00857,Maxwell Printer Paper 381,Office,Maxwell,12000
+P00858,TechCore Monitor 772,Electronics,TechCore,651000
+P00859,Zenith Smartphone 328,Electronics,Zenith,268000
+P00860,NexGen Stapler 580,Office,NexGen,96000
+P00861,NexGen Notebook 270,Office,NexGen,35000
+P00862,Maxwell USB Hub 420,Accessories,Maxwell,13000
+P00863,NexGen Filing Cabinet 525,Office,NexGen,14000
+P00864,TechCore HDMI Cable 384,Accessories,TechCore,47000
+P00865,Zenith Smart TV 893,Electronics,Zenith,127000
+P00866,TechCore Webcam 608,Accessories,TechCore,38000
+P00867,Orbit Gaming Headset 176,Gaming,Orbit,229000
+P00868,NexGen Electric Kettle 901,Home Appliances,NexGen,256000
+P00869,Orbit Notebook 856,Office,Orbit,27000
+P00870,NexGen Refrigerator 132,Home Appliances,NexGen,134000
+P00871,SmartEdge Air Fryer 213,Home Appliances,SmartEdge,16000
+P00872,TechCore Office Chair 960,Office,TechCore,158000
+P00873,Prime Smart TV 431,Electronics,Prime,77000
+P00874,UrbanPro Monitor 597,Electronics,UrbanPro,703000
+P00875,Prime Smart TV 283,Electronics,Prime,482000
+P00876,SmartEdge Router 396,Electronics,SmartEdge,90000
+P00877,Vertex Desk 935,Office,Vertex,60000
+P00878,TechCore Phone Case 468,Accessories,TechCore,39000
+P00879,UrbanPro Laptop Bag 882,Accessories,UrbanPro,10000
+P00880,NexGen Game Console 510,Gaming,NexGen,135000
+P00881,UrbanPro Blender 720,Home Appliances,UrbanPro,45000
+P00882,Prime Stapler 448,Office,Prime,9000
+P00883,Vertex Washing Machine 706,Home Appliances,Vertex,270000
+P00884,Vertex External SSD 421,Electronics,Vertex,97000
+P00885,Maxwell Webcam 310,Accessories,Maxwell,11000
+P00886,Vertex Mechanical Keyboard 557,Accessories,Vertex,6000
+P00887,SmartEdge Filing Cabinet 645,Office,SmartEdge,17000
+P00888,NexGen Webcam 958,Accessories,NexGen,25000
+P00889,Nova Standing Fan 838,Home Appliances,Nova,145000
+P00890,Nova Game Console 482,Gaming,Nova,486000
+P00891,Orbit Webcam 351,Accessories,Orbit,5000
+P00892,SmartEdge Gaming Monitor 389,Gaming,SmartEdge,232000
+P00893,UrbanPro Power Bank 225,Electronics,UrbanPro,96000
+P00894,SmartEdge Monitor 230,Electronics,SmartEdge,158000
+P00895,NexGen External SSD 105,Electronics,NexGen,655000
+P00896,TechCore Blender 935,Home Appliances,TechCore,37000
+P00897,Vertex Smartphone 931,Electronics,Vertex,500000
+P00898,Apex Laptop Bag 477,Accessories,Apex,53000
+P00899,Vertex HDMI Cable 847,Accessories,Vertex,4000
+P00900,Nova HDMI Cable 203,Accessories,Nova,10000
+P00901,SmartEdge Power Bank 122,Electronics,SmartEdge,461000
+P00902,TechCore Microwave 689,Home Appliances,TechCore,35000
+P00903,TechCore Mechanical Keyboard 159,Accessories,TechCore,7000
+P00904,TechCore Filing Cabinet 372,Office,TechCore,58000
+P00905,Orbit Standing Fan 156,Home Appliances,Orbit,509000
+P00906,TechCore Refrigerator 907,Home Appliances,TechCore,57000
+P00907,Vertex Stapler 887,Office,Vertex,7000
+P00908,UrbanPro Phone Case 218,Accessories,UrbanPro,47000
+P00909,Nova Router 206,Electronics,Nova,273000
+P00910,Apex Filing Cabinet 986,Office,Apex,139000
+P00911,Orbit Gaming Keyboard 963,Gaming,Orbit,77000
+P00912,NexGen USB Hub 641,Accessories,NexGen,7000
+P00913,NexGen Filing Cabinet 119,Office,NexGen,12000
+P00914,Apex Air Fryer 496,Home Appliances,Apex,58000
+P00915,Pulse Smartphone 564,Electronics,Pulse,112000
+P00916,Zenith Router 831,Electronics,Zenith,676000
+P00917,Maxwell Desk 477,Office,Maxwell,22000
+P00918,SmartEdge HDMI Cable 613,Accessories,SmartEdge,52000
+P00919,Pulse Wireless Mouse 348,Accessories,Pulse,12000
+P00920,Prime Standing Fan 538,Home Appliances,Prime,552000
+P00921,NexGen Air Conditioner 908,Home Appliances,NexGen,53000
+P00922,Maxwell Gaming Mouse 895,Gaming,Maxwell,229000
+P00923,Nova Gaming Monitor 978,Gaming,Nova,66000
+P00924,SmartEdge Laptop 671,Electronics,SmartEdge,586000
+P00925,Pulse Screen Protector 495,Accessories,Pulse,74000
+P00926,Vertex Filing Cabinet 636,Office,Vertex,30000
+P00927,Pulse HDMI Cable 730,Accessories,Pulse,39000
+P00928,Orbit Blender 522,Home Appliances,Orbit,510000
+P00929,UrbanPro Desk 473,Office,UrbanPro,38000
+P00930,TechCore Notebook 745,Office,TechCore,85000
+P00931,TechCore Gaming Keyboard 970,Gaming,TechCore,561000
+P00932,Nova Smart TV 134,Electronics,Nova,274000
+P00933,Zenith Screen Protector 683,Accessories,Zenith,21000
+P00934,Maxwell Refrigerator 262,Home Appliances,Maxwell,19000
+P00935,Apex Gaming Headset 488,Gaming,Apex,422000
+P00936,Prime Phone Case 390,Accessories,Prime,62000
+P00937,Vertex Tablet 705,Electronics,Vertex,763000
+P00938,TechCore USB Cable 639,Accessories,TechCore,35000
+P00939,UrbanPro Gaming Keyboard 753,Gaming,UrbanPro,147000
+P00940,Maxwell Smartphone 538,Electronics,Maxwell,114000
+P00941,Nova Gaming Keyboard 904,Gaming,Nova,552000
+P00942,Zenith Electric Kettle 820,Home Appliances,Zenith,538000
+P00943,Vertex Power Bank 932,Electronics,Vertex,473000
+P00944,Pulse Laptop Bag 181,Accessories,Pulse,37000
+P00945,Apex Laptop Bag 134,Accessories,Apex,20000
+P00946,Zenith Gaming Mouse 709,Gaming,Zenith,45000
+P00947,Apex Desk Lamp 112,Office,Apex,136000
+P00948,Apex Notebook 510,Office,Apex,75000
+P00949,UrbanPro Laptop 669,Electronics,UrbanPro,520000
+P00950,Maxwell Monitor 483,Electronics,Maxwell,293000
+P00951,Vertex Gaming Headset 552,Gaming,Vertex,78000
+P00952,SmartEdge USB Cable 440,Accessories,SmartEdge,27000
+P00953,TechCore External SSD 635,Electronics,TechCore,230000
+P00954,UrbanPro Wireless Mouse 292,Accessories,UrbanPro,3000
+P00955,Prime Office Chair 885,Office,Prime,10000
+P00956,Apex Desk 261,Office,Apex,126000
+P00957,SmartEdge Mechanical Keyboard 474,Accessories,SmartEdge,30000
+P00958,UrbanPro Standing Fan 468,Home Appliances,UrbanPro,123000
+P00959,Pulse Desk Lamp 720,Office,Pulse,27000
+P00960,TechCore Laptop Bag 118,Accessories,TechCore,8000
+P00961,Prime Printer 188,Electronics,Prime,238000
+P00962,Zenith Bluetooth Speaker 407,Electronics,Zenith,721000
+P00963,Pulse Gaming Monitor 531,Gaming,Pulse,27000
+P00964,Vertex Screen Protector 716,Accessories,Vertex,9000
+P00965,Maxwell Filing Cabinet 727,Office,Maxwell,63000
+P00966,NexGen Wireless Mouse 871,Accessories,NexGen,11000
+P00967,Apex Game Console 522,Gaming,Apex,29000
+P00968,Zenith External SSD 475,Electronics,Zenith,704000
+P00969,SmartEdge Smart TV 739,Electronics,SmartEdge,766000
+P00970,Nova Desk Lamp 713,Office,Nova,22000
+P00971,Nova Washing Machine 863,Home Appliances,Nova,571000
+P00972,TechCore Controller 833,Gaming,TechCore,47000
+P00973,Maxwell Electric Kettle 189,Home Appliances,Maxwell,36000
+P00974,Apex Notebook 632,Office,Apex,21000
+P00975,SmartEdge Electric Kettle 861,Home Appliances,SmartEdge,50000
+P00976,Zenith Tablet 208,Electronics,Zenith,155000
+P00977,Prime Webcam 669,Accessories,Prime,15000
+P00978,Vertex Gaming Keyboard 904,Gaming,Vertex,61000
+P00979,NexGen Gaming Keyboard 635,Gaming,NexGen,31000
+P00980,SmartEdge Screen Protector 828,Accessories,SmartEdge,48000
+P00981,Nova Game Console 137,Gaming,Nova,209000
+P00982,Apex Wireless Mouse 533,Accessories,Apex,4000
+P00983,Maxwell USB Cable 170,Accessories,Maxwell,67000
+P00984,UrbanPro Stapler 830,Office,UrbanPro,106000
+P00985,Zenith Tablet 236,Electronics,Zenith,715000
+P00986,Nova Laptop 440,Electronics,Nova,90000
+P00987,Nova Wireless Mouse 871,Accessories,Nova,16000
+P00988,SmartEdge Smartphone 387,Electronics,SmartEdge,659000
+P00989,Nova Air Conditioner 852,Home Appliances,Nova,355000
+P00990,TechCore Stapler 511,Office,TechCore,22000
+P00991,UrbanPro Air Fryer 888,Home Appliances,UrbanPro,444000
+P00992,Apex Router 650,Electronics,Apex,728000
+P00993,Zenith Printer Paper 843,Office,Zenith,29000
+P00994,Orbit Blender 884,Home Appliances,Orbit,20000
+P00995,Zenith USB Cable 522,Accessories,Zenith,6000
+P00996,UrbanPro Electric Kettle 125,Home Appliances,UrbanPro,210000
+P00997,Nova Router 363,Electronics,Nova,181000
+P00998,UrbanPro Gaming Monitor 251,Gaming,UrbanPro,31000
+P00999,Pulse Screen Protector 775,Accessories,Pulse,5000
+P01000,Nova HDMI Cable 141,Accessories,Nova,11000
